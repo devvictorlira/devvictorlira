@@ -46,4 +46,4 @@
 
 <br>
 
-<p align="center"><i>Um projeto de cada vez, rumo a virar Design Engineer / Full Stack Developer 🚀</i></p>
+<p align="center"><i>Um projeto de cada vez, rumo a virar Full Stack Developer 🚀</i></p>
