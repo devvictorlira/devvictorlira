@@ -1,10 +1,10 @@
 <h1 align="center">Olá, eu sou o Victor 👋</h1>
 
-<h3 align="center"> </> Front-end Developer em formação | Rumo ao Full Stack</h3>
+<h3 align="center">🔐 Estudante de Segurança da Informação | Foco em SOC → Cloud Security</h3>
 
 <p align="center">
-  🧠 HTML, CSS, JavaScript | UX/UI<br>
-  🚀 Buscando minha primeira vaga júnior
+  🧠 Redes, Linux, Análise de Ameaças | Base em Programação<br>
+  🚀 Buscando minha primeira oportunidade em Segurança da Informação
 </p>
 
 <br>
@@ -12,9 +12,10 @@
 ## 🚀 Sobre mim
 
 - 💻 Estudando Análise e Desenvolvimento de Sistemas (ADS)
-- 🎯 Foco atual: HTML, CSS e JavaScript, com objetivo de evoluir para Full Stack
-- 🎨 Gosto de projetar no Figma antes de codar — design com propósito, não só código
-- 📚 Aprendo praticando: projeto atrás de projeto, sandbox atrás de sandbox
+- 🎯 Foco atual: Segurança da Informação, com objetivo de atuar em SOC e evoluir para Cloud Security
+- 🛡️ Estudo fundamentos de redes, Linux e detecção de ameaças na prática, com labs no TryHackMe
+- 🧩 Gosto de entender a lógica por trás dos problemas, e minha base em programação me ajuda a analisar e automatizar tarefas
+- 📚 Aprendo praticando: lab atrás de lab, projeto atrás de projeto
 - 📍 Baixada Santista, SP
 
 <br>
@@ -22,7 +23,7 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github,vscode" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,html,css,js" alt="tech stack" />
 </p>
 
 <br>
@@ -46,4 +47,4 @@
 
 <br>
 
-<p align="center"><i>Um projeto de cada vez, rumo a virar Full Stack Developer 🚀</i></p>
+<p align="center"><i>Um lab de cada vez, rumo a uma carreira em Segurança da Informação e Cloud Security 🔐</i></p>
