@@ -1,22 +1,23 @@
 <h1 align="center">Olá, eu sou o Victor 👋</h1>
 
-<h3 align="center">🔐 Estudante de Segurança da Informação | Foco em SOC → Cloud Security</h3>
+<h3 align="center">💻 Desenvolvedor de Software | Foco em Full Stack Development</h3>
 
 <p align="center">
-  🧠 Redes, Linux, Análise de Ameaças | Base em Programação<br>
-  🚀 Buscando minha primeira oportunidade em Segurança da Informação
+  💻 Desenvolvedor de Software | Foco em Full Stack<br>
+  ⚙️ Front-end, Back-end, APIs REST e Banco de Dados<br>
+  🚀 Construindo projetos e buscando oportunidades na área de desenvolvimento<br>
 </p>
 
 <br>
 
 ## 🚀 Sobre mim
 
-- 💻 Estudando Análise e Desenvolvimento de Sistemas (ADS)
-- 🎯 Foco atual: Segurança da Informação, com objetivo de atuar em SOC e evoluir para Cloud Security
-- 🛡️ Estudo fundamentos de redes, Linux e detecção de ameaças na prática, com labs no TryHackMe
-- 🧩 Gosto de entender a lógica por trás dos problemas, e minha base em programação me ajuda a analisar e automatizar tarefas
-- 📚 Aprendo praticando: lab atrás de lab, projeto atrás de projeto
-- 📍 Baixada Santista, SP
+- 💻 Estudante de Análise e Desenvolvimento de Sistemas (ADS) pela Unisanta.
+- 🚀 Foco em Desenvolvimento de Software Full Stack, com interesse em aplicações web modernas.
+- 🎨 Estudando desenvolvimento Front-end/Back-end, com HTML, CSS, JavaScript, Python, SQL e  APIs RESTful
+- ⚙️ Desenvolvendo conhecimentos em Back-end, APIs REST, Node.js e bancos de dados.
+- 🧠 Interesse em arquitetura de software, boas práticas e resolução de problemas.
+- 🛠️ Aprendizado contínuo por meio de projetos práticos e desafios de programação.
 
 <br>
 
@@ -47,4 +48,4 @@
 
 <br>
 
-<p align="center"><i>Um lab de cada vez, rumo a uma carreira em Segurança da Informação e Cloud Security 🔐</i></p>
+<p align="center"><i>Transformando ideias em soluções, evoluindo um projeto de cada vez. ⚙️</i></p>
