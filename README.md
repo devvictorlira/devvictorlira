@@ -31,6 +31,7 @@
 
 ## 📌 Projetos em destaque
 
+- 🔗 [**minha-trilha-dev**](https://github.com/devvictorlira/minha-trilha-dev) - Checklist interativo de trilha de estudos para devs, feito em HTML, CSS e JS puro
 - 🔗 [**primeiro-formul-rio**](https://github.com/devvictorlira/primeiro-formul-rio) — Formulário de login responsivo com HTML e CSS puro, efeito glassmorphism e ícones Boxicons
 - 🔗 [**primeiro-slider-js**](https://github.com/devvictorlira/primeiro-slider-js) — Slider de imagens feito com HTML, CSS e JavaScript puro
 - 🔗 [**linktree-pessoal**](https://github.com/devvictorlira/linktree-pessoal) — Página de links estilo Linktree, hospedada na Netlify
